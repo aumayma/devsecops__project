@@ -12,3 +12,4 @@ RUN javac src/main/java/*.java
 
 # Exécuter l'application Java après la compilation
 CMD ["java", "src.main.java.App"]
+
